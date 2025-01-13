@@ -1,8 +1,19 @@
-## Inventory Forecasting using Machine Learning
-### Inventory forecasting is the process of making estimations about future customer demand over a defined period, using historical data as well as demand drivers to better food production and supply needs.
+## Inventory Forecasting using Machine Learning Project
 
-Usually organisations follow tranditional forecasting techniques/algorithms such as Auto Arima, Auto Arima, Sarima, Simple moving average and many more.
+Inventory forecasting involves predicting future customer demand within a specific timeframe. By analyzing historical data and understanding demand drivers, organizations can make informed decisions to optimize production, manage supply needs effectively, and minimize waste.
 
+Traditional Approaches:
+Organizations often rely on well-established forecasting techniques, including but not limited to:
+
+- Auto ARIMA (Auto-Regressive Integrated Moving Average): Automatically determines the best parameters for ARIMA models.
+- SARIMA (Seasonal ARIMA): Extends ARIMA to account for seasonality in data.
+- Simple Moving Average: Calculates average demand over a fixed time window to smooth fluctuations and forecast future demand.
+- Exponential Smoothing: Assigns exponentially decreasing weights to past observations for trend prediction.
+- Holt-Winters Method: Captures level, trend, and seasonality in the data for more precise forecasting.
+These algorithms provide foundational insights but may need enhancements or integration with modern techniques for real-world complexities.
+
+Application Scope:
+The goal is to align inventory levels with actual customer needs, improve cost efficiency, and reduce overproduction. Inventory forecasting is crucial in sectors such as manufacturing, retail, and food production.
 
 ## Table of Contents
 ```bash
