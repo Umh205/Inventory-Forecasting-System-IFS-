@@ -1,4 +1,4 @@
-## Inventory Forecasting using Machine Learning Project
+### Inventory Forecasting using Machine Learning Project
 
 Inventory forecasting involves predicting future customer demand within a specific timeframe. By analyzing historical data and understanding demand drivers, organizations can make informed decisions to optimize production, manage supply needs effectively, and minimize waste.
 
